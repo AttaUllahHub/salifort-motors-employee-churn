@@ -163,4 +163,4 @@ salifort-motors-employee-churn/
 **Atta Ullah**
 BS Data Science Student
 GitHub: [AttaUllahHub](https://github.com/AttaUllahHub)
-LinkedIn: [Add LinkedIn Profile URL]
+LinkedIn: [https://www.linkedin.com/in/atta-ullah-sagar-9854aa286]
